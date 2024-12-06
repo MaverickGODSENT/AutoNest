@@ -1,11 +1,8 @@
 ﻿namespace AutoNest.Data.Entities
 {
-    using AutoNest.Data.Common.Models;
-    using System;
     using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
+
+    using AutoNest.Data.Common.Models;
 
     public class Engine : BaseDeletableModel<int>
     {
@@ -13,6 +10,6 @@
 
         public double Displacement { get; set; }
 
-        List<Parts> EngineParts { get; set; }
+        List<Part> EngineParts { get; set; }
     }
 }
