@@ -1,7 +1,7 @@
 
 # AutoNest
 
-AutoNest is a web-based application for [describe purpose, e.g., managing automated nesting operations for optimization processes]. The project is built on ASP.NET Core using the [NikolayIT ASP.NET Core Template](https://github.com/NikolayIT/ASP.NET-Core-Template), providing a clean architecture, best practices, and essential features out-of-the-box.
+AutoNest is a web-based application for a car part selling buisness that features a advanced search engine similar to that of AutoDoc.
 
 ## Features
 
